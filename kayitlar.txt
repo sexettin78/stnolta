@@ -1,0 +1,8 @@
+ KULLANICI ADI >  SİFRE >  Ip adresi: 127.0.0.1 USER AGENT > Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0 İslem Tarihi > 16-07-2021 23:22:22
+
+ KULLANICI ADI > testt SİFRE > asdas Ip adresi: 127.0.0.1 USER AGENT > Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0 İslem Tarihi > 16-07-2021 23:22:53
+
+ KULLANICI ADI >  SİFRE >  Ip adresi: 127.0.0.1 USER AGENT > Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0 İslem Tarihi > 16-07-2021 23:25:06
+
+ KULLANICI ADI > savas SİFRE > 12121 Ip adresi: 127.0.0.1 USER AGENT > Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0 İslem Tarihi > 16-07-2021 23:25:18
+
